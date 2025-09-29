@@ -5,14 +5,16 @@ CAIM aims to enhance the memory capabilities of LLMs by integrating aspects of c
 **IUI Short Paper:** https://dl.acm.org/doi/full/10.1145/3708557.3716342  
 **Arxiv Full-Paper:** https://arxiv.org/abs/2505.13044
 
-How to get started:
 
-1. install requirements: `pip install -r requirements.txt`
-2. start CAIM: `python .\main.py`
-3. stop conversation: type `exit`
+## Getting started
+### Environment Setup
+Install requirements with pip: `pip install -r requirements.txt`
 
-Evaluation of CAIM on GVD:
+### Start CAIM
+1. start CAIM: `python .\main.py`
+2. stop conversation: type `exit`
 
+### Evaluation of CAIM on GVD:
 1. start CAIM: `python .\main.py`
 2. fill memories: type `eval`
 3. answer probing questions: type `questions`
@@ -20,5 +22,18 @@ Evaluation of CAIM on GVD:
 Note: CAIM with GLM requires an NVIDIA GPU and Python 3.11. See requirements.txt for specific GLM dependencies.
 
 ## License
-
 This project is licensed under the [MIT License](./LICENSE).
+
+
+## Citation
+If you find our work useful, please consider citing the following papers:  
+
+```
+@article{westhausser2025caim,
+  title={CAIM: Development and Evaluation of a Cognitive AI Memory Framework for Long-Term Interaction with Intelligent Agents},
+  author={Westh{\"a}u{\ss}er, Rebecca and Berenz, Frederik and Minker, Wolfgang and Zepf, Sebastian},
+  journal={arXiv preprint arXiv:2505.13044},
+  year={2025}
+}
+
+```
