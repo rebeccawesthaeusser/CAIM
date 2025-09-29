@@ -1,0 +1,9 @@
+openai==1.88.0
+pandas==2.3.0 
+numpy==2.3.0
+transformers==4.52.4
+
+# glm: you need python 3.11
+# transformers==4.27.1 
+# icetk 
+# cpm_kernels

@@ -1,0 +1,227 @@
+{
+  "categories": {
+    "personal": {
+      "identity": [
+        "name",
+        "age",
+        "gender",
+        "personality",
+        "traits",
+        "location"
+      ],
+      "attributes": [
+        "introverted",
+        "powerful",
+        "intelligent",
+        "enthusiastic",
+        "decisive",
+        "helpful",
+        "sensitive",
+        "creative"
+      ],
+      "relationships": ["family", "friends", "colleagues"],
+      "hobbies": [
+        "painting",
+        "drawing",
+        "tea",
+        "piano",
+        "singing",
+        "writing",
+        "reading",
+        "dancing",
+        "photography",
+        "cooking",
+        "shooting",
+        "guitar",
+        "racing",
+        "skateboarding",
+        "collecting",
+        "fashion",
+        "technology",
+        "animals",
+        "cooking",
+        "crafts",
+        "yoga"
+      ],
+      "aspirations": [
+        "publishing",
+        "speech",
+        "leadership",
+        "networking",
+        "innovative"
+      ]
+    },
+    "family": {
+      "structure": [
+        "parents",
+        "siblings",
+        "children",
+        "sisters",
+        "nephew",
+        "niece"
+      ],
+      "activities": ["gaming", "vacations", "events"]
+    },
+    "food": {
+      "preferences": [
+        "likes",
+        "dislikes",
+        "Cantonese",
+        "Chinese",
+        "Japanese",
+        "barbecue",
+        "sushi",
+        "Western"
+      ],
+      "diet": ["vegetarian", "vegan"],
+      "recommendations": ["restaurants", "recipes", "cuisines", "homestyle"],
+      "engagement": ["shows", "blogs", "training"],
+      "skills": ["culinary"]
+    },
+    "music": {
+      "preferences": ["genres", "instruments", "jazz", "classical", "rock"],
+      "engagement": ["concerts", "playing", "production"],
+      "favorites": ["artists", "songs"]
+    },
+    "travel": {
+      "plans": ["destinations", "dates", "activities", "planning"],
+      "preferences": [
+        "adventure",
+        "relaxation",
+        "cultural",
+        "seaside",
+        "natural"
+      ],
+      "experience": [
+        "trips",
+        "memories",
+        "dreams",
+        "museum",
+        "heritage",
+        "inspiration"
+      ],
+      "suggestions": ["cost", "expenses", "budget"],
+      "location": [
+        "city",
+        "park",
+        "beaches",
+        "mountains",
+        "lakes",
+        "countryside",
+        "zoo",
+        "garden",
+        "castle",
+        "palace",
+        "gallery"
+      ]
+    },
+    "work": {
+      "job": ["role", "company", "projects", "boss"],
+      "career": ["goals", "shortterm", "longterm", "confusion", "change"],
+      "environment": ["remote", "office", "hybrid", "VR"],
+      "pressure": ["unable", "demanding", "busy", "frustrated", "overtime"],
+      "skills": [
+        "self-assessment",
+        "strengths",
+        "weaknesses",
+        "management",
+        "leadership",
+        "networking",
+        "improvement",
+        "brainstorming"
+      ]
+    },
+    "education": {
+      "studies": ["degree", "field", "university"],
+      "past": ["school", "achievements"],
+      "interests": [
+        "languages",
+        "courses",
+        "workshops",
+        "history",
+        "literature",
+        "psychology",
+        "language",
+        "programming",
+        "business"
+      ]
+    },
+    "health": {
+      "physical": [
+        "fitness",
+        "conditions",
+        "workout",
+        "HIIT",
+        "gym",
+        "yoga",
+        "weight",
+        "muscle",
+        "walking"
+      ],
+      "mental": [
+        "stress",
+        "therapy",
+        "confidence",
+        "nervous",
+        "helpless",
+        "unmotivated",
+        "lonely",
+        "exhausted",
+        "meditation",
+        "anxious",
+        "tired",
+        "comprehension"
+      ],
+      "goals": ["mindfulness", "activities"],
+      "advice": ["healthy", "relief", "stress-relief", "breathing"]
+    },
+    "entertainment": {
+      "movies": [
+        "actors",
+        "visuals",
+        "theme",
+        "scifi",
+        "comedies",
+        "romance",
+        "action",
+        "art"
+      ],
+      "books": [
+        "authors",
+        "habits",
+        "novels",
+        "intellectual",
+        "characters",
+        "biographies",
+        "classic",
+        "emotional",
+        "fiction",
+        "nonfiction"
+      ],
+      "games": ["video", "board", "mobile", "chess", "card", "tips"],
+      "art": ["artistic", "Renaissance", "artwork", "exhibitions"]
+    },
+    "technology": {
+      "trends": ["future", "innovations"],
+      "applications": ["entertainment"],
+      "focus": ["AI", "programming", "framework"]
+    },
+    "sports": {
+      "activities": [
+        "hiking",
+        "running",
+        "basketball",
+        "climbing",
+        "outdoor",
+        "swimming",
+        "badminton",
+        "races",
+        "racetrack",
+        "skiing"
+      ]
+    },
+    "community": {
+      "interaction": ["online", "events"]
+    }
+  }
+}
