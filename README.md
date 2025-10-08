@@ -36,4 +36,12 @@ If you find our work useful, please consider citing the following papers:
   year={2025}
 }
 
+@inproceedings{westhausser2025caim,
+  title={CAIM: A Cognitive AI Memory Framework for Long-term Interaction with LLMs},
+  author={Westh{\"a}u{\ss}er, Rebecca and Zepf, Sebastian and Minker, Wolfgang},
+  booktitle={Companion Proceedings of the 30th International Conference on Intelligent User Interfaces},
+  pages={22--25},
+  year={2025}
+}
+
 ```
