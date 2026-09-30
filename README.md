@@ -26,7 +26,7 @@ This project is licensed under the [MIT License](./LICENSE).
 
 
 ## Citation
-If you find our work useful, please consider citing the following papers:  
+If you find our work useful, please consider citing the following paper:  
 
 ```
 @inproceedings{westhausser2026caim,
